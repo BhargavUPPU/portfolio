@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Task Manger",
+      "imageSrc": "projects/Task_manger.png",
+      "description": "This is a project to enter regular tasks on daily bases ",
+      "skills": ["javascript", "Express", "Node","Mongodb"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/BhargavUPPU/Task_Manger1"
+    },
+    {
+      "title": "Flappy Bird",
+      "imageSrc": "projects/Flapp_bird.jpeg",
+      "description": "Based on the game flappy bird using javascript",
+      "skills": [ "Html", "javascript", "css"],
+      "demo": "https://bhargavuppu.github.io/flappy_brid/",
+      "source": "https://github.com/BhargavUPPU/flappy_brid"
+    },
+    {
+      "title": "Whack_mole",
+      "imageSrc": "projects/Whack_mole.png",
+      "description": "Whack_mole game add score and calculate it",
+      "skills": ["Html", "Css", "javascript","realtime apis"],
+      "demo": " https://bhargavuppu.github.io/Whack_mole/",
+      "source": "https://github.com/BhargavUPPU/Whack_mole"
+    }
+  ]

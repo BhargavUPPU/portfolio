@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Data Structures and Algarithm",
+      "organisation": "NPTEL",
+      "startDate": "JUL , 2023",
+      "endDate": "OCT , 2023",
+      "experiences": ["DSA using Java", "where i have qualified with  certification"],
+      "imageSrc": "history/Nptel.jpeg"
+    },
+    {
+      "role": "C++ programming",
+      "organisation": "Udemy",
+      "startDate": "Apr, 2022",
+      "endDate": "Sep, 2023",
+      "experiences": ["where i have completed from beginner to OOP's concept"],
+      "imageSrc": "history/udemyIcon.png"
+    },
+    {
+      "role": "Database Management System",
+      "organisation": "Scaler",
+      "startDate": "Apr, 2023",
+      "endDate": "sep, 2023",
+      "experiences": [
+        "Mater the Fundamentals and getting the idea of advanced concepts"
+      ],
+      "imageSrc": "history/scalerIcon.png"
+    }
+  ]
